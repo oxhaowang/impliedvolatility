@@ -1,4 +1,4 @@
-# Technical Notes Stored Here
+# Technical Notes 
 
 ## Halley's Method
 
