@@ -9,3 +9,6 @@
 
 [Vine Copula Notes](./vinecopulanotes.html)
 
+## Non-Inertial Frame Notes
+[Netown's Law in Non-Inertial Frame](./fromRotatingframes.pdf)
+
