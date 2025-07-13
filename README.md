@@ -17,3 +17,6 @@
 [MStrategyResults](./s2025.html)
 
 [PseudoArb](./oldsignal.daily.pnl.cum.returns.html)
+
+## Fun Problems
+[Zeta Function $\zeta(3/2)<3$](./zetafun.html)
